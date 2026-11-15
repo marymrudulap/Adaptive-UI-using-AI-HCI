@@ -1,0 +1,13 @@
+accuracy,hint_rate,layout
+0.0,0.0,Support
+0.2,0.4,Support
+0.4,0.8,Support
+0.3,1.0,Support
+0.5,0.0,Standard
+0.6,0.2,Standard
+0.7,0.4,Standard
+0.8,0.7,Standard
+0.9,0.0,Challenge
+1.0,0.0,Challenge
+1.0,0.2,Challenge
+0.9,0.2,Challenge
